@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48401902-3de4-4689-984a-864eb18312fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/assignment-5-processes-and-threads-davidenkovic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/build/classes/at/htlleonding/fibonacci/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/build/test/classes/at/htlleonding/fibonacci/FibonacciTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/build/test/results/TEST-at.htlleonding.fibonacci.FibonacciTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3AHIF/TINF/PaT/assignment-5-processes-and-threads-davidenkovic/FibonacciParallel/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/benjopcp/assignment-7-producer-consumer-problem-zbenii/ConsumerProducerIntelliJ/src/semaphor.java" beforeDir="false" afterPath="$PROJECT_DIR$/benjopcp/assignment-7-producer-consumer-problem-zbenii/ConsumerProducerIntelliJ/src/semaphor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/TINF/benjo/assignment-5-processes-and-threads-zbenii/FibonacciParallel/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/TINF/benjo/assignment-5-processes-and-threads-zbenii/FibonacciParallel/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/TINF/benjo/assignment-5-processes-and-threads-zbenii/FibonacciParallel/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/TINF/benjo/assignment-5-processes-and-threads-zbenii/FibonacciParallel/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/TINF/benjo/assignment-5-processes-and-threads-zbenii/FibonacciParallel/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/TINF/benjo/assignment-5-processes-and-threads-zbenii/FibonacciParallel/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/TINF/benjo/assignment-5-processes-and-threads-zbenii/FibonacciParallel/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/TINF/benjo/assignment-5-processes-and-threads-zbenii/FibonacciParallel/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/TINF/benjo/assignment-5-processes-and-threads-zbenii/FibonacciParallel/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/TINF/benjo/assignment-5-processes-and-threads-zbenii/FibonacciParallel/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/newT/assignment-6-basic-ipc-davidenkovic/A5" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/newT/assignment-6-basic-ipc-davidenkovic/A5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/pat/assignment-5-processes-and-threads-Paatz/FibonacciParallel/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/pat/assignment-5-processes-and-threads-Paatz/FibonacciParallel/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/pat/assignment-5-processes-and-threads-Paatz/FibonacciParallel/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/pat/assignment-5-processes-and-threads-Paatz/FibonacciParallel/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/pat/assignment-5-processes-and-threads-Paatz/FibonacciParallel/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/pat/assignment-5-processes-and-threads-Paatz/FibonacciParallel/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/pat/assignment-5-processes-and-threads-Paatz/FibonacciParallel/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/pat/assignment-5-processes-and-threads-Paatz/FibonacciParallel/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/pat/assignment-5-processes-and-threads-Paatz/FibonacciParallel/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/pat/assignment-5-processes-and-threads-Paatz/FibonacciParallel/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trraasshh/t/assignment-5-processes-and-threads-davidenkovic/shell/src/shell/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/trraasshh/t/assignment-5-processes-and-threads-davidenkovic/shell/src/shell/Shell.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/assignment-7-producer-consumer-problem-davidenkovic" />
+  </component>
+  <component name="ProjectId" id="1UtXDC11zRXRZqZPvQZMJfXIoXW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Synchronized">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="pcp.ProducerConsumerProblem" />
+      <module name="Desktop" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Semaphor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pcp.Semaphor" />
+      <module name="Desktop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pcp.Synchronized" />
+      <module name="Desktop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Semaphor" />
+      <item itemvalue="Application.Synchronized" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Synchronized" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Semaphor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48401902-3de4-4689-984a-864eb18312fc" name="Default Changelist" comment="" />
+      <created>1576176742563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576176742563</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
